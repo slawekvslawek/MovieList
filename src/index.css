@@ -1,0 +1,83 @@
+body {
+background: #132021 !important;
+}
+
+section{
+    padding: 20px;
+}
+
+.card{
+    width:250px;
+}
+
+.h1{
+    color:#22d7e0;
+    margin:200px;
+    margin-left:100px;
+}
+
+.butt{
+    margin:25px;
+    margin-left:51%;
+    width:10%;
+    background-color:#000033;
+    color:white;
+}
+
+.searchbox{
+    width: 100%;
+    padding: 10px;
+    margin:10px;
+}
+
+
+.move{
+    padding:30px;
+    width: 18rem;
+}
+
+.content2{
+    margin-top: 20px;
+    margin-right: 20px;
+    padding: 50px;
+    display: flex;
+    justify-content:center;
+}
+
+
+.App{
+    display: flex;
+}
+
+.in{
+    text-align:center;
+}
+
+.content{
+    margin-top: 60px;
+    margin-right: 20px;
+    padding: 50px;
+    display: flex;
+    justify-content:'space-between';
+}
+.zalogowany{
+    color:#008B8B;
+    margin-right:-200px;
+}
+
+.test{
+    margin-top: 1em;
+}
+.card2{
+    width:400px;
+}
+.App3{
+    margin-top:150px;
+    margin-left:450px;
+}
+
+.Search{
+    display:flex;
+    width: 90%;
+    margin-left:55px;
+}
